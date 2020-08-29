@@ -1,5 +1,5 @@
-##### coco2dx game dev / Bukkit & Spigot Plugin dev
+a weeaboo makes games and writes minecraft add-ons (usually spigot plugins)
 
-##### Weekend Artist (illustration, vector img, photography)
+languages: chinese, eng, jp, java, cpp, cs
 
-##### languages: chinese, eng, jp, java, cpp, cs
+habits: drawing、photography、2d/3dcg
