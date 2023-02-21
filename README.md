@@ -2,7 +2,7 @@
 
 ## About Me
 
-🤩 Passionate Game Developer, code </> with love ❤️! 
+🤩 Passionate Game Developer, code </> with love ❤️!
 
 🍎 An Apple Developer looking for interesting side projects!
 
@@ -13,6 +13,8 @@
 🎧 Doujin Music, Artcore, DnB, J-POP / Diverse System, Feryquitous, Harito, Sakuzyo, kous, F9, lasah, Fusq ... 
 
 ❤️ ACGN, Music, Visual Arts.
+
+🌐 Chinese, English, ~~Programming Languages~~ 
 
 ## My Tech Stack 🧑🏻‍💻
 
