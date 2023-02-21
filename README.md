@@ -1,8 +1,9 @@
-# Hello there!  Nice to see you 🥳 
+# Hello there!  Nice to see you 🥳🥳
+
 
 ## About Me
 
-🤩 Passionate Game Developer, code </> with love ❤️!
+🤩 Passionate Game Developer, code </> with love ❤️
 
 🍎 An Apple Developer looking for interesting side projects!
 
