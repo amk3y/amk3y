@@ -16,7 +16,7 @@
 
 🎧 Doujin Music, Artcore, DnB, J-POP / Diverse System, Feryquitous, Harito, Sakuzyo, kous, F9, lasah, Fusq ... 
 
-❤️ ACGN, Music, Visual Arts, Graphic Design, Motion Graphic
+❤️ ACGN, Music, Photography, Graphic Design, Motion Graphic, Illustration
 
 🌐 Chinese, English, ~~Programming Languages~~ 
 
