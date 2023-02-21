@@ -7,9 +7,11 @@
 
 🍎 An Apple Developer looking for interesting side projects!
 
+🤯 Learning Computer Graphics, and everything about being a Technical Artist
+
 📚 Undergrad Student @ CSIE
 
-🤯 Learning Computer Graphics, and everything about being a Technical Artist
+⭐️ Very friendly! 
 
 🎧 Doujin Music, Artcore, DnB, J-POP / Diverse System, Feryquitous, Harito, Sakuzyo, kous, F9, lasah, Fusq ... 
 
