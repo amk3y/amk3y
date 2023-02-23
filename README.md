@@ -1,6 +1,19 @@
 # Hello there 👋 Nice to see you 🥳🥳
 ![image](https://user-images.githubusercontent.com/37068498/220413612-561d46d0-ef4d-4d6f-8102-954385d2c78b.png)
-<p align="center"><samp>made by amk3y</font></p>
+<p align="center">
+  <samp>made by amk3y</font>
+</p>
+<p align="center">
+  <a href="mailto: admin@amk3y.net">
+  <img src="https://img.shields.io/badge/admin%40amk3y.net-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email: admin@amk3y.net">
+  </a>
+  <a href="https://twitter.com/amk3y">
+  <img src="https://img.shields.io/badge/%40amk3y-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter: %40amk3y">
+  </a>
+  <img src="https://img.shields.io/badge/AM%235082-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord: AM#5082">
+
+  
+</p>
 
 ## About Me
 
