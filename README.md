@@ -1,7 +1,7 @@
 # Hello there 👋 Nice to see you 🥳🥳
 ![image](https://user-images.githubusercontent.com/37068498/220413612-561d46d0-ef4d-4d6f-8102-954385d2c78b.png)
 <p align="center">
-  <samp>made by amk3y</font>
+  <samp>banner by @amk3y</font>
 </p>
 <p align="center">
   <a href="mailto: admin@amk3y.net">
