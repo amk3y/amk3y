@@ -18,7 +18,7 @@
 
 ❤️ ACGN, Music, Photography, Graphic Design, Motion Graphic, Illustration
 
-🌐 Chinese, English, ~~Programming Languages~~ 
+🌐 Chinese | Learning English, Vietnamese, ~~Programming Languages~~ 
 
 ## Technologies + Tools 🧑🏻‍💻
 
