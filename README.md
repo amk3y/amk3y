@@ -10,7 +10,7 @@
   <a href="https://twitter.com/amk3y" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/%40amk3y-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter: %40amk3y">
   </a>
-  <img src="https://img.shields.io/badge/AM%235082-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord: amk3y">
+  <img src="https://img.shields.io/badge/amk3y-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord: amk3y">
 </p>
 
 ## About Me
