@@ -19,7 +19,7 @@
 
 🍎 An Apple Developer looking for interesting side projects!
 
-🏍️ Motorcyclist / Wishlist: MT03
+🏍️ Motorcyclist / MT-03
 
 📚 Undergrad Student @ CSIE
 
